@@ -1,7 +1,8 @@
 ![](./image/JT01.png)
 # KodeKebab
 ### - til at tage med
-Podcast om Økonomi og IT uddannelsen plus alt andet vi finder interessant
+To passionerede undervisere, Jens Rasmussen og Tue Hellstern, formidler emner om programmering, så alle kan være med.
+- primært python
 
 ## Episoder
 - <span class="fs-1">[Pilot](./pilot/README.md){: .btn .btn-green }</span>
