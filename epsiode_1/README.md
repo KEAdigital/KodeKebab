@@ -5,6 +5,9 @@ nav_order: 89
 ---
 ![](../image/podcast.jpg)
 # Hvorfor programmering - hvorfor Python?
+
+## Episode 1
+
 Jens & Tue stiller og besvarer spørgsmålet "Hvorfor programmering - hvorfor Python?" og kommer ind på tværfaglighed, krydsfeltet mellem teknik og forretning.
 
 Du er attraktiv på jobmarkedet, hvis du kan oversætte imellem økonomi og it.
