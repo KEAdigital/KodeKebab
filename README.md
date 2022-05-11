@@ -1,3 +1,6 @@
+# Ny episode på vej!
+- Vi har været i studiet 11. maj 2022, så du kan se frem til en frisk udgivelse (episode 2) meget snart.
+
 ![](./image/JT01.png)
 # KodeKebab
 ### - til at tage med
