@@ -9,4 +9,5 @@ Skriv til os på [podcast@kodekebab.dk](mailto:podcast@kodekebab.dk) hvis du har
 
 ## Mere om os
 [Jens Rasmussen](https://linkedin.com/in/fimano/)
+
 [Tue Hellstern](https://linkedin.com/in/hellstern/)
