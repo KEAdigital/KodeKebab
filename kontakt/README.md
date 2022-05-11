@@ -5,9 +5,9 @@ nav_order: 1001
 ---
 ![](../image/JT01.png)
 # Kontakt
+Skriv til os på [podcast@kodekebab.dk](mailto:podcast@kodekebab.dk) hvis du har kommentarer, forslag eller spørgsmål.
 
-podcast@kodekebab.dk
-
+## Mere om os
 [Jens Rasmussen](https://linkedin.com/in/fimano/)
 
 [Tue Hellstern](https://linkedin.com/in/hellstern/)
