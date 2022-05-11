@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pilot
-nav_order: 1000
+nav_order: 90
 ---
 ![](../image/podcast.jpg)
 # Pilot
