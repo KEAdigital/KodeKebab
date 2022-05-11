@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hvorfor programmering - hvorfor Python?
-nav_order: 101
+nav_order: 89
 ---
 ![](../image/podcast.jpg)
 # Hvorfor programmering - hvorfor Python?
