@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kom i gang og kend dit værktøj
+title: Hvorfor programmering - hvorfor Python?
 nav_order: 999
 ---
 ![](../image/podcast.jpg)
